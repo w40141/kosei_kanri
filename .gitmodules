@@ -1,3 +1,6 @@
 [submodule "kosei_kanri_backend"]
 	path = kosei_kanri_backend
 	url = https://github.com/w40141/kosei_kanri_backend
+[submodule "kosei_kanri_frontend"]
+	path = kosei_kanri_frontend
+	url = https://github.com/w40141/kosei_kanri_frontend
